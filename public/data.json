@@ -1,0 +1,108 @@
+
+    [
+        {
+          "id": "6425a23ff7c9f3fc8b581089",
+          "authorName": "Wilma Hewitt",
+          "blogTitle": "The Ultimate Guide to React Hooks: How to Use Them Effectively",
+          "blogCoverImage": "https://images2.imgbox.com/c1/57/aVDa9co8_o.png",
+          "authorImage": "https://i.pravatar.cc/150?img=49",
+          "readTime": 5,
+          "publishDate": "11/1/2022"
+        },
+        {
+          "id": "6425a23f2e7daef8a1f21bae",
+          "authorName": "Higgins Vargas",
+          "blogTitle": "React vs. Angular: Which One Should You Choose for Your Next Project?",
+          "blogCoverImage": "https://images2.imgbox.com/71/a9/3xPasM9J_o.png",
+          "authorImage": "https://i.pravatar.cc/150?img=52",
+          "readTime": 10,
+          "publishDate": "12/1/2022"
+        },
+        {
+          "id": "6425a23f5b87b0d2af99b138",
+          "authorName": "Romero Klein",
+          "blogTitle": "How to Build a Responsive Navigation Bar with React",
+          "blogCoverImage": "https://images2.imgbox.com/cd/45/6dEmRsJu_o.png",
+          "authorImage": "https://i.pravatar.cc/150?img=13",
+          "readTime": 7,
+          "publishDate": "2/1/2023"
+        },
+        {
+          "id": "6425a23f9e90370360232065",
+          "authorName": "Alford Holloway",
+          "blogTitle": "5 Common Mistakes to Avoid When Building React Applications",
+          "blogCoverImage": "https://images2.imgbox.com/b0/db/GENBhLSd_o.jpg",
+          "authorImage": "https://i.pravatar.cc/150?img=42",
+          "readTime": 6,
+          "publishDate": "6/1/2021"
+        },
+        {
+          "id": "6425a23f7bee619ec4ae4d34",
+          "authorName": "Delgado Price",
+          "blogTitle": "React Redux Tutorial: Managing State in Your Application",
+          "blogCoverImage": "https://images2.imgbox.com/62/e3/QCVESqIB_o.jpg",
+          "authorImage": "https://i.pravatar.cc/150?img=21",
+          "readTime": 8,
+          "publishDate": "12/1/2021"
+        },
+        {
+          "id": "6425a23ff4d537d2b50c9900",
+          "authorName": "Ramirez Farley",
+          "blogTitle": "Building Dynamic Forms with React: A Beginner's Guide",
+          "blogCoverImage": "https://images2.imgbox.com/48/48/i7uk7Pci_o.jpg",
+          "authorImage": "https://i.pravatar.cc/150?img=50",
+          "readTime": 5,
+          "publishDate": "12/1/2022"
+        },
+        {
+          "id": "6425a23f110fa181966e1d55",
+          "authorName": "Blanchard Downs",
+          "blogTitle": "Optimizing React Performance: Tips and Tricks for Faster Apps",
+          "blogCoverImage": "https://images2.imgbox.com/26/54/UrAFeXwH_o.jpg",
+          "authorImage": "https://i.pravatar.cc/150?img=30",
+          "readTime": 9,
+          "publishDate": "9/1/2021"
+        },
+        {
+          "id": "6425a23f613482c2cafd642a",
+          "authorName": "Whitney Sullivan",
+          "blogTitle": "Understanding React Context API: A Practical Example",
+          "blogCoverImage": "https://images2.imgbox.com/e0/2f/RlOVVAsk_o.jpg",
+          "authorImage": "https://i.pravatar.cc/150?img=13",
+          "readTime": 11,
+          "publishDate": "3/1/2021"
+        },
+        {
+          "id": "6425a23f9326d54ca4e6dc9f",
+          "authorName": "Flynn Wilder",
+          "blogTitle": "Unit Testing in React: Best Practices for Reliable Code",
+          "blogCoverImage": "https://images2.imgbox.com/46/ed/YhQkh8df_o.jpg",
+          "authorImage": "https://i.pravatar.cc/150?img=52",
+          "readTime": 8,
+          "publishDate": "4/1/2022"
+        },
+        {
+          "id": "6425a23f423bf03ec25c07af",
+          "authorName": "King Armstrong",
+          "blogTitle": "How to Build a Server-Side Rendered React App with Next.js",
+          "blogCoverImage": "https://images2.imgbox.com/3b/81/FWByZc8z_o.jpg",
+          "authorImage": "https://i.pravatar.cc/150?img=28",
+          "readTime": 3,
+          "publishDate": "7/1/2022"
+        }
+      ]
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
